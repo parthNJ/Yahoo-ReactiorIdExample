@@ -1,0 +1,4 @@
+The purpose of this project is show Yhoo's stockExchange values. 
+As the values of Yahoo's stock changes increase and decrease they are digalized on a GUI. 
+The reactID for Yahoo changes everyday, therefore the code would need to be re-edited.
+ 
